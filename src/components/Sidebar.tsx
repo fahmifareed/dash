@@ -33,7 +33,7 @@ const Sidebar: React.FC<SidebarProps> = ({ activeTab, onTabChange }) => {
       <div className="mb-8">
         <img src="https://raw.githubusercontent.com/fahmifareed/dash/main/src/components/Dashboard/ai.png" 
              alt="Logo" 
-             className="w-12 h-12" />
+             className="w-16 h-16" />
       </div>
       
       <div className="flex-1 space-y-2">
