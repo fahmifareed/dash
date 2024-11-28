@@ -31,7 +31,7 @@ const Sidebar: React.FC<SidebarProps> = ({ activeTab, onTabChange }) => {
   return (
     <div className="fixed left-0 top-0 h-screen w-20 bg-navy-900 flex flex-col items-center py-4">
       <div className="mb-8">
-        <img src="https://raw.githubusercontent.com/zenon-network/syrius/master/src/assets/logos/zenon-logo-white.svg" 
+        <img src="https://raw.githubusercontent.com/fahmifareed/dash/main/src/components/Dashboard/ai.png" 
              alt="Logo" 
              className="w-12 h-12" />
       </div>
